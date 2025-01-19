@@ -4,10 +4,8 @@ One of the key features of my chatbot is its ability to retrieve dynamic informa
 Building this bot was a rewarding experience, as it combines efficiency with user-centric design. The chatbot is robust, scalable, and capable of significantly enhancing customer support operations by reducing response times and improving user satisfaction. I’m proud of how this project turned out, and I’m excited to see it make a positive impact in real-world applications!
 
 
-# The instalation and use tutorial 
-# Before the start of this project you need to install the all addons and depencenies -
-
-# pip install -U langgraph langchain-community langchain-anthropic tavily-python pandas openai 
+ The instalation and use tutorial 
+ Before the start of this project you need to install the all addons and depencenies - pip install -U langgraph langchain-community langchain-anthropic tavily-python pandas openai 
 
 # After the success installation you need create and connect or just connect the existing API Keys - 
 # Anthropic , OpenAi and Tavily API keys. Lower i will post the links where you can find all the Keys. 
