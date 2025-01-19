@@ -6,6 +6,7 @@ Building this bot was a rewarding experience, as it combines efficiency with use
 
  The instalation and use tutorial 
  Before the start of this project you need to install the all addons and depencenies - pip install -U langgraph langchain-community langchain-anthropic tavily-python pandas openai 
+ and conda 
 
 After the success installation you need create and connect or just connect the existing API Keys -  Anthropic , OpenAi and Tavily API keys. Lower i will post the links where you can find all the Keys. 
 # https://platform.openai.com/settings/proj_QmTBH5LUpLFJGs0M8b59DYBv/api-keys - Open Ai 
