@@ -8,12 +8,12 @@ This project demonstrates how to build an intelligent assistant capable of under
 
 ##  Features
 
-- 🤖 AI-powered conversational chatbot
-- ⚡ Real-time responses
-- 🧠 Context-aware answers using LLMs
-- 📄 Custom knowledge base support
-- 🔍 Retrieval-Augmented Generation (RAG) approach
-- 💬 Clean and interactive chat interface
+-  AI-powered conversational chatbot
+-  Real-time responses
+-  Context-aware answers using LLMs
+-  Custom knowledge base support
+-  Retrieval-Augmented Generation (RAG) approach
+-  Clean and interactive chat interface
 
 ---
 
